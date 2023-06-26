@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>None.</loc>
+         <lastmod>2023-06-26</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+         <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/"/>
+         
+    </url>
+    <url>
+         <loc>Noneuser-guide/referral-code/</loc>
+         <lastmod>2023-06-26</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/user-guide/referral-code/"/>
+         <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/user-guide/referral-code/"/>
+         
+    </url>
+    <url>
+         <loc>Noneuser-guide/team-code/</loc>
+         <lastmod>2023-06-26</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/user-guide/team-code/"/>
+         <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/user-guide/team-code/"/>
+         
+    </url>
+</urlset>
